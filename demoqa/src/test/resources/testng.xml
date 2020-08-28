@@ -5,7 +5,7 @@
 		<parameter name="browser" value="chrome" />
 		<parameter name="url" value="https://demoqa.com/" />
 		<classes>
-			<class name="mainTest.MainTest" />
+			<class name="mainTest.TestRunner" />
 			<parameter name="browser" value="chrome" />
 			<parameter name="url" value="https://demoqa.com/" />
 		</classes>
